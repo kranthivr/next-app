@@ -21,7 +21,6 @@
     "@types/react-dom": "18.2.13",
     "autoprefixer": "10.4.16",
     "bcrypt": "^5.1.1",
-    "encoding": "^0.1.13",
     "eslint": "8.51.0",
     "eslint-config-next": "13.5.4",
     "fast-sort": "^3.4.0",
@@ -42,6 +41,7 @@
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",
-    "daisyui": "^3.9.3"
+    "daisyui": "^3.9.3",
+    "encoding": "^0.1.13"
   }
 }
